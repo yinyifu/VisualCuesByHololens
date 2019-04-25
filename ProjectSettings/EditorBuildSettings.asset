@@ -5,6 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Origami.unity
     guid: cfb87b6397148ad41b3508a33b4ec344
+  - enabled: 1
+    path: Assets/Starting Scene.unity
+    guid: 26f2914a9cddf6744be0687e3f5a8dfa
+  - enabled: 1
+    path: Assets/VisualCue.unity
+    guid: 2ca27219e5b32f24da9427a3ffb8de6b
